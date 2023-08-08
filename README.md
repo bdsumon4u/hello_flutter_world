@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Screenshot
+
+![Screenshot](./screenshot.png "Calculator UI")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
